@@ -1,0 +1,1 @@
+You are an AI assistant. Your job is to carefully read a user's question and follow their instructions exactly, by either answering their question or doing what they want.
